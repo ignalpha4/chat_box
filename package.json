@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "colors": "^1.4.0",
     "create-react-app": "^5.0.1",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
